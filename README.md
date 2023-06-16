@@ -1,2 +1,1 @@
-# WeatherReact
 # WeatherWithoutAPI
